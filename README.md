@@ -32,4 +32,6 @@ Techniques applied: K-Means.
 
 Run the notebook in Google Colab, without installing python packages on the computer, exploring the available notebook: https://colab.research.google.com/github/vchirinosb/call-of-duty/
 
+Author: Victor C.
+
 Last Update: 11.2022
