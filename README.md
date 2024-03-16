@@ -1,31 +1,31 @@
-# Proyecto Call of Duty
+# Project: Call of Duty
 
-# Descripción del proyecto y origen del dataset
+# Project description and origin of the dataset
 
-- Actualmente el video juego Call of Duty Modern Warfare es uno de los juegos en linea mas populares en el mundo.
+- Currently the video game Call of Duty Modern Warfare is one of the most popular online games in the world.
 
-- A la fecha se presenta una problemática referida a los tipos de jugadores que se pueden juntar en una partida (lobby) debido a que pueden haber jugadores con habilidades altas junto con jugadores con habilidades bajas.
+- To date there is a problem regarding the types of players that can join in a game (lobby) because there may be players with high skills along with players with low skills.
 
-- Este inconveniente genera que muchos jugadores nuevos que pueden tener un nivel de habilidad bajo terminen no disfrutando la experiencia de juego debido a que jugadores mas hábiles los eliminan de manera rápida.
+- This inconvenience generates that many new players who may have a low skill level end up not enjoying the game experience because more skilled players eliminate them quickly.
 
-- Además los jugadores de habilidad alta buscan siempre desafios mas elevados lo que jugar con jugadores principiantes (noobs) no permite su mejora.
+- In addition, high skill players are always looking for higher challenges and playing with noobs does not allow them to improve.
 
-- El fabricante Activision además necesita saber que tipos de jugadores tiene en general para poder ofrecer diferentes productos derivados del juego.
+- The manufacturer Activision also needs to know what types of players it has in general in order to be able to offer different products derived from the game.
 
-- Debido a esto, Activision se encuentra buscando una solución para poder crear lobbies donde se encuentren jugadores con habilidades similares.
+- Because of this, Activision is looking for a solution to create lobbies where players with similar skills meet.
 
-- Para este caso se va a utilizar un dataset con los datos de juego de mas de 1500 jugadores para poder realizar un aprendizaje no supervisado. Los datos incluyen cantidad de victorias, derrotas, ratio de kills, deaths, asistencias entre otros.
+- In this case, a dataset with the game data of more than 1500 players will be used to perform an unsupervised learning process. The data includes number of wins, losses, kill ratio, deaths, assists, among others.
 
-- El dataset a utilizar se encontró en la plataforma Kaggle. 
+- The dataset to be used was found in the Kaggle platform. 
 
-- Ruta del data set: https://www.kaggle.com/datasets/aishahakami/call-of-duty-players
+- Path of the data set: https://www.kaggle.com/datasets/aishahakami/call-of-duty-players
 
-Archivo: COD.ipynb
+File: COD.ipynb
 
 Dataset: cod.csv
 
-## Recomendaciones
+## Recommendations
 
-Ejecutar el notebook en Google Colab, sin necesidad de instalar paquetes de python en el ordenador, explorando el notebook disponible: https://colab.research.google.com/github/vchirinosb/call-of-duty/
+Run the notebook in Google Colab, without installing python packages on the computer, exploring the available notebook: https://colab.research.google.com/github/vchirinosb/call-of-duty/
 
 Last Update: 11.2022
