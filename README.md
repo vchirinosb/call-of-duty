@@ -27,3 +27,5 @@ Dataset: cod.csv
 ## Recomendaciones
 
 Ejecutar el notebook en Google Colab, sin necesidad de instalar paquetes de python en el ordenador, explorando el notebook disponible: https://colab.research.google.com/github/vchirinosb/call-of-duty/
+
+Last Update: 11.2022
