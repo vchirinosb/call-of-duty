@@ -24,6 +24,10 @@ File: COD.ipynb
 
 Dataset: cod.csv
 
+Python Libraries: pandas, numpy, matplotlib, seaborn, sklearn, mpl_toolkits.
+
+Techniques applied: K-Means.
+
 ## Recommendations
 
 Run the notebook in Google Colab, without installing python packages on the computer, exploring the available notebook: https://colab.research.google.com/github/vchirinosb/call-of-duty/
