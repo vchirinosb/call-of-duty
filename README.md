@@ -18,7 +18,7 @@
 
 - The dataset to be used was found in the Kaggle platform. 
 
-- Path of the data set: https://www.kaggle.com/datasets/aishahakami/call-of-duty-players
+- Path of the dataset: https://www.kaggle.com/datasets/aishahakami/call-of-duty-players
 
 File: COD.ipynb
 
@@ -36,4 +36,4 @@ Run the notebook in Google Colab, without installing python packages on the comp
 - For educational purposes only. Not intended for commercial use.
 - Test data only. Does not contain real data.
 
-Last Update: 11.2022
+Last Update: 03.2024
